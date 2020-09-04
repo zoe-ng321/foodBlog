@@ -2,9 +2,9 @@
   "meta": {
     "title": "Zoe's Food Bytes",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "A food blog by a software engineer",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "image": "/assets/emoji.jpg",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"
