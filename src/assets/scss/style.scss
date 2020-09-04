@@ -29,14 +29,14 @@
     margin-left: 20px;
   }
   a {
-    color: rgba(255,255,255,0.6);
+    color: rgba(0,0,0,0.6);
     text-decoration: none;
     &:hover {
-      color: rgba(255,255,255,0.8);
+      color: rgba(0,0,0,0.8);
     }
   }
   a[aria-current="page"] {
-    color: rgba(255,255,255,1)
+    color: rgba(0,0,0,1)
   }
   .menu-trigger {
     display: none;
@@ -75,7 +75,7 @@
       z-index: 1;
       background: #421E2F;
       width: 100%;
-			max-width: 320px;    
+			max-width: 320px;
 			border-radius: 0 0 0 12px;
       overflow: hidden;
     }
@@ -98,12 +98,13 @@
 	padding: 0 20px;
 }
 .site-logo {
+	font-size: 20px;
   font-weight: bold;
   a {
-    color: #fff;
+    color: #000;
 		text-decoration: none;
 		&:hover {
-			color: #fff;
+			color: #000;
 		}
   }
   @media (max-width: $breakpoint-lg) {
@@ -164,7 +165,7 @@
 		margin: 0 0 3px;
 		font-size: 20px;
 		font-weight: 600;
-		a { 
+		a {
 			color: var(--post-link-color);
 		}
 	}
@@ -252,7 +253,7 @@ article img {
 		border-radius: 12px;
 	}
 }
-// Buttons 
+// Buttons
 .button {
 	--padding: 20px;
 	--margin: 20px;
@@ -344,13 +345,13 @@ article img {
 .site-footer {
 	display: flex;
 	align-items: center;
-  background: #eee;
+  background: #F08080;
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
 	p {
 		margin: 0;
-		color: #777
+		color: #fff
 	}
 	a {
 		font-weight: normal;
@@ -435,4 +436,3 @@ article img {
 
 // Libraries
 @import "lib/prism-default"
-
