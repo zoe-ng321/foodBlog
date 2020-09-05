@@ -4,7 +4,7 @@ title: "Quarantine Cooking: Pt. 1"
 slug: /quarantinecooking1
 date: 2020-09-04 18:09
 description: Quarantine cooking part 1
-featuredImage: /assets/img_8523.jpg
+featuredImage: /assets/img_8523banner.jpg
 ---
 Since March at the start of the shelter in place, I've been cooking some cool new recipes with my boyfriend! Here's a few of them.
 
