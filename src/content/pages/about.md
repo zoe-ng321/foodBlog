@@ -3,9 +3,7 @@ template: about-page
 slug: /about
 title: About
 ---
-
-
-![Picture of Zoe](/assets/dsc_0174.jpg "Zoe")
+![Picture of Zoe](/assets/dsc_0174-2.jpg "Zoe")
 
 Hi! I'm Zoe, a self-proclaimed foodie living in Austin, TX. I also am a software engineer (check out my portfolio [here](https://zoe-ng321.github.io/)) working primarily on full stack web development. 
 
