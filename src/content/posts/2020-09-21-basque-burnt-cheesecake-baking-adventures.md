@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: "Basque Burnt Cheesecake : Baking Adventures"
+title: Basque Burnt Cheesecake - Baking Adventures
 slug: /burntcheesecake
 date: 2020-09-21 11:34
 description: basque burnt cheesecake
