@@ -10,7 +10,7 @@ One of my favorite taco spots in Austin would have to be Veracruz All Natural! I
 
 ![fish taco](/assets/img_7945.jpg "The fish taco")
 
-I usually alternate between the migas, al pastor, and fish tacos, getting 2 out of the 3. I've also tried the shrimp macha and migas poblanas tacos which are also great!
+The must-get item here is definitely the migas taco! It's always stuffed to the brim, and it's the one that they are famous for. I usually alternate between the migas, al pastor, and fish tacos, getting 2 out of the 3. I've also tried the shrimp macha and migas poblanas tacos which are also great! 
 
 ![two tacos](/assets/img_7986.jpg "Al pastor taco and migas taco")
 
