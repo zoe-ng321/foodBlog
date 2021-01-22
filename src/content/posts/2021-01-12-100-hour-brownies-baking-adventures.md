@@ -4,7 +4,7 @@ title: 100 Hour Brownies - Baking Adventures
 slug: /100hourbrownies
 date: 2021-01-12 15:06
 description: 100 hour brownies
-featuredImage: /assets/img_8817.jpg
+featuredImage: /assets/img_8817-copy.jpg
 ---
 For our latest baking adventure, my boyfriend and I made the famous 100 hour brownies! We came across the [original video from Alvin Zhou](https://www.youtube.com/watch?v=28NB3L9YuVI) one weekend while browsing cooking videos on Youtube, and we knew that we had to see if the brownies live up to the hype! My boyfriend ordered some espresso powder from Amazon, and we stocked up on chocolate bars for this recipe. We decided that we wanted to make the brownies in time for our anniversary dinner on Sunday, so we started the prep on Wednesday.
 
