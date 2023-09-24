@@ -14,7 +14,7 @@ We arrived in New York City around 3pm, and we were so hungry! We were staying n
 
 After that, we went to the Blackpink concert at Metlife Stadium in New Jersey! It was my first concert in the post-COVID era, so I was super excited! The concert was amazing, and I was glad I got to experience it!
 
-![Cardamom bun]( "Cardamom Bun")
+![Cardamom bun](/assets/img_2480.jpg "Cardamom Bun")
 
 The next day, we got breakfast at La Cabra, a coffee shop/bakery in Soho. I got a matcha latte and a cardamom bun and my boyfriend got a chocolate croissant. The cardamom bun is something I discovered during my trip to London last year, and I was excited to eat another one. This one wasn’t as good as the London one, but it was still delicious! 
 
@@ -22,15 +22,15 @@ The next day, we got breakfast at La Cabra, a coffee shop/bakery in Soho. I got 
 
 We walked around for a bit before our lunch reservation at Fish Cheeks, a Thai restaurant focusing on seafood. We ordered the coconut crab curry and the prawn karee, and both were delicious! Next time, I would want to try the steamed fish with herbs and the crab fried rice! After that, we walked around Soho and explored a lot of the stores. 
 
-![Eclair]( "Strawberry Matcha Eclair")
+![Eclair](/assets/img_2493.jpg "Strawberry Matcha Eclair")
 
 We went to Supermoon Bakehouse, where we had a strawberry matcha eclair. The matcha cream filling was super good with the strawberry. 
 
-![Ice cream]( "Ice cream with panna")
+![Ice cream](/assets/img_2494.jpg "Ice cream with panna")
 
 The menu changes every two weeks, so I definitely want to go back! We then took the subway to go to Caffe Panna to get some ice cream. The line was very long, but once we ordered, we got our ice cream quickly. I got the pink pineapple crunch flavor along with strawberry sauce, extra graham crunch, and a scoop of panna, which is a special whipped cream. The flavor that I got was alright, but my favorite part was the panna.
 
-![Caprese sandwich]( "Caprese Sandwich")
+![Caprese sandwich](/assets/img_2497.jpg "Caprese Sandwich")
 
 For a quick dinner before the broadway show, we went to All’Antico Vinaio since it was near our hotel. It is a famous sandwich spot from Italy with huge sandwiches, and we ordered a caprese sandwich to split. We then went to see the Book of Mormon which was actually pretty funny.
 
